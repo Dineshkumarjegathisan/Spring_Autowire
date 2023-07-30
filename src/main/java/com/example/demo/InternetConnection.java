@@ -21,7 +21,7 @@ public class InternetConnection {
 	}
 	
 	public void switchOn() {
-		System.out.println("switching on Internet");
+		System.out.println("switching on the Internet");
 	}
 
 }
